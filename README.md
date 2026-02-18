@@ -9,4 +9,4 @@
 ## Как запустить
 ```bash
 pip install -r requirements.txt
-python analyze_botsv1.py
+python analyz.py
