@@ -1,0 +1,4 @@
+type,key,count
+WinEventLog,User right adjusted (4703),12
+WinEventLog,Process created (4688),9
+WinEventLog,Successful logon (4624) - check anomalies,3
